@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## Various techs or languages I use :computer:
+- C
+- C++
+- git
+
+## Currently learning :books:
+- python
+- C#
+
 <!--
 **Xaz185/Xaz185** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

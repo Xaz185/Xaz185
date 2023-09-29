@@ -1,6 +1,6 @@
 ## Hi there, I'm Xavier 👋
 
-**Electronic Engineer** changing for a **Test System Solftware Engineer** role in the near future.
+**Electronic Engineer** with a role of **Test System Engineer** with heavy focus on software.
 
 ### Languages :computer:
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
